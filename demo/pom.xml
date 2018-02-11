@@ -12,6 +12,6 @@
 			<version>1.5.5.RELEASE</version>
 			<type>pom</type>
 		</dependency>
-	</dependencies>
+	</dependencies>    
 	
 </project>
