@@ -1,0 +1,1 @@
+create table tpl_user_t(id varchar(32) primary key)
